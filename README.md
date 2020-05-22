@@ -1,2 +1,2 @@
 # PokerHands
-program to compare poker hands
+Program to compare poker hands
